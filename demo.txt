@@ -1,1 +1,7 @@
 this is the github learning
+
+to create a branch
+git add .
+git commit -m "adding the new changes"
+
+if we give clear 
