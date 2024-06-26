@@ -1,4 +1,0 @@
-to create a branch
-git add .
-git commit -m "adding the new changes"
-git push origin main 
