@@ -26,7 +26,7 @@ console.log(total_population);
 
 // Print the country that uses US dollars as currency.
 
-var dollar = result.filter((ele)=>ele.currencies=="usd");
+var dollar = result.filter((ele)=>ele.currencies=="USD");
 console.log(dollar);
 
 }
